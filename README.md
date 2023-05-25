@@ -10,7 +10,7 @@
 
 - Java is a platform-independent language and not a platform-dependent language.​
 
-**History of Java **
+**History of Java**
 
 - Java was developed by Sun Microsystems in 1995.​
 
@@ -20,84 +20,84 @@
 
 **Why  Java​**
 
-There are many reasons why Java is a popular programming language.​
+- There are many reasons why Java is a popular programming language.​
 
-Some of the reasons include:​
+- Some of the reasons include:​
 
-Java is platform-independent.​
+- Java is platform-independent.​
 
-Java is object-oriented.​
+- Java is object-oriented.​
 
-Java is secure.​
+- Java is secure.​
 
-Java is portable.​
+- Java is portable.​
 
-Java is scalable.​
+- Java is scalable.​
 
-Java is robust.​
+- Java is robust.​
 
-Java is dynamic.​
+- Java is dynamic.​
 
-Java is open source.​
+- Java is open source.​
 
 
 
 **Java Applications​**
 
-Java can be used to develop a wide variety of applications, including:​
+- Java can be used to develop a wide variety of applications, including:​
 
-Web applications​
+- Web applications​
 
-Mobile applications​
+- Mobile applications​
 
-Desktop applications​
+- Desktop applications​
 
-Enterprise applications​
+- Enterprise applications​
 
-Games​
+- Games​
 
 Scientific applications​
 
-Financial applications​
+- Financial applications​
 
-And more
+- And more
 
 **Features in Java​**
 
-Java has many features that make it a powerful and versatile programming language.​
+- Java has many features that make it a powerful and versatile programming language.​
 
-Some of the features include:​
+- Some of the features include:​
 
-Object-oriented programming​
+- Object-oriented programming​
 
-Automatic garbage collection​
+- Automatic garbage collection​
 
-Strong typing​
+- Strong typing​
 
-Security​
+- Security​
 
-Portability​
+- Portability​
 
-Scalability​
+- Scalability​
 
-Robustness​
+- Robustness​
 
-Dynamic typing​
+- Dynamic typing​
 
-Open source​
+- Open source​
 
 **Java Programming Environment​**
 
 
-The Java programming environment consists of the following components:​
+- The Java programming environment consists of the following components:​
 
-Java compiler​
+- Java compiler​
 
-Java Virtual Machine (JVM)​
+- Java Virtual Machine (JVM)​
 
-Java Runtime Environment (JRE)​
+- Java Runtime Environment (JRE)​
 
-Java Development Kit (JDK)
+- Java Development Kit (JDK)
 
 **Java Compiler**
 
