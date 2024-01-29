@@ -1,5 +1,5 @@
 # Base image
-FROM python:3.8
+FROM openjdk:17-alpine
 
 # Set the working directory inside the container
 WORKDIR /app
