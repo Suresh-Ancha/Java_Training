@@ -20,4 +20,4 @@ EXPOSE 5000
 # ENV MY_ENV_VAR=value
 
 # Run the Flask application
-CMD ["java", "app.java"]
+CMD ["java", "ATM.java"]
