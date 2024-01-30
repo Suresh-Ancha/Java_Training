@@ -5,4 +5,4 @@ set -e
 docker pull sureshancha/simple-java-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 sureshancha/simple-java-flask-app
+docker run -d -p 5000:5000 sureshancha/simple-java-flask-app:tagname
